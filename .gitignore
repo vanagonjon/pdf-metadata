@@ -2,3 +2,4 @@
 .DS_Store
 !/Sources/.gitkeep
 *.log
+/Output
